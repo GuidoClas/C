@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1593312997 source:c:\users\guido\desktop\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"Client.h"
+	"utn.h"
+
+1593294380 c:\users\guido\desktop\trabajopractico4\linkedlist.h
+
+1589920213 c:\users\guido\desktop\trabajopractico4\utn.h
+
+1589924854 source:c:\users\guido\desktop\trabajopractico4\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1593287622 source:c:\users\guido\desktop\trabajopractico4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593312235 c:\users\guido\desktop\trabajopractico4\controller.h
+
+1593292594 c:\users\guido\desktop\trabajopractico4\parser.h
+
+1593291113 c:\users\guido\desktop\trabajopractico4\client.h
+
+1593292594 source:c:\users\guido\desktop\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Client.h"
+
+1593312252 source:c:\users\guido\desktop\trabajopractico4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Client.h"
+	"parser.h"
+	"utn.h"
+
+1593293863 source:c:\users\guido\desktop\trabajopractico4\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Client.h"
+	"utn.h"
+
+1593293863 source:c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Client.h"
+	"utn.h"
+
+1593294380 c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\linkedlist.h
+
+1593291113 c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\client.h
+
+1589920213 c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\utn.h
+
+1593312252 source:c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Client.h"
+	"parser.h"
+	"utn.h"
+
+1593312235 c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\controller.h
+
+1593292594 c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\parser.h
+
+1593287622 source:c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593313578 source:c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"Client.h"
+	"utn.h"
+
+1593292594 source:c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Client.h"
+
+1589924854 source:c:\users\guido\desktop\tp's lab1 prog1\trabajopractico4\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+

@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1587054307 source:c:\users\guido\desktop\c\trabajopractico1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operacionesMat.h"
+
+1587053613 source:c:\users\guido\desktop\c\trabajopractico1\operacionesmat.c
+	<stdio.h>
+	<stdlib.h>
+
+1587053613 source:c:\users\guido\desktop\c\trabajopractico1\validarint.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1587054235 source:c:\users\guido\desktop\c\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"operacionesMat.h"
+	"validarInt.h"
+	"menu.h"
+
+1587053613 c:\users\guido\desktop\c\trabajopractico1\operacionesmat.h
+
+1587053613 c:\users\guido\desktop\c\trabajopractico1\validarint.h
+
+1587053613 c:\users\guido\desktop\c\trabajopractico1\menu.h
+
+1587156562 source:c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operacionesMat.h"
+
+1587053613 c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\operacionesmat.h
+
+1587156562 source:c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\operacionesmat.c
+	<stdio.h>
+	<stdlib.h>
+
+1587156562 source:c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\validarint.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validarInt.h"
+
+1587156562 source:c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"operacionesMat.h"
+	"validarInt.h"
+	"menu.h"
+
+1587053613 c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\validarint.h
+
+1587053613 c:\users\guido\desktop\tp_laboratorio_1\trabajopractico1\menu.h
+

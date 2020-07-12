@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1588896458 source:c:\users\guido\desktop\bibliotecas c\utn\utn\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1588896220 source:c:\users\guido\desktop\bibliotecas c\utn\utn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1588895999 c:\users\guido\desktop\bibliotecas c\utn\utn\utn.h
+

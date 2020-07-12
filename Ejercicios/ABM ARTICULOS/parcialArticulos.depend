@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1593578940 source:c:\users\guido\desktop\parcialarticulos\articulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Articulo.h"
+	"Rubro.h"
+	"utn.h"
+
+1593578940 c:\users\guido\desktop\parcialarticulos\linkedlist.h
+
+1593578940 c:\users\guido\desktop\parcialarticulos\articulo.h
+
+1593572133 c:\users\guido\desktop\parcialarticulos\utn.h
+
+1593576238 source:c:\users\guido\desktop\parcialarticulos\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Articulo.h"
+	"parser.h"
+	"Rubro.h"
+	"utn.h"
+
+1593576299 c:\users\guido\desktop\parcialarticulos\controller.h
+
+1593572035 c:\users\guido\desktop\parcialarticulos\parser.h
+
+1593574051 source:c:\users\guido\desktop\parcialarticulos\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Articulo.h"
+	"LinkedList.h"
+
+1593572133 source:c:\users\guido\desktop\parcialarticulos\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1593578531 source:c:\users\guido\desktop\parcialarticulos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Articulo.h"
+	"utn.h"
+	"Rubro.h"
+
+1593579134 source:c:\users\guido\desktop\parcialarticulos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593575642 c:\users\guido\desktop\parcialarticulos\rubro.h
+
+1593575591 source:c:\users\guido\desktop\parcialarticulos\rubro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Articulo.h"
+	"utn.h"
+

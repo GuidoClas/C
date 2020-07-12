@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1593609666 source:c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Paciente.h"
+
+1593609666 c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\linkedlist.h
+
+1593607475 source:c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1593607548 c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\utn.h
+
+1593611464 source:c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Paciente.h"
+	"utn.h"
+
+1593610983 source:c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Paciente.h"
+	"parser.h"
+	"utn.h"
+
+1593610416 c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\controller.h
+
+1593611124 c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\paciente.h
+
+1593606471 c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\parser.h
+
+1593606471 source:c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Paciente.h"
+
+1593612410 source:c:\users\guido\desktop\clasg.splabi.1a\parcial2labi\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Paciente.h"
+	"utn.h"
+

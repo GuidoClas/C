@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589359638 source:c:\users\guido\desktop\proyecto empleados\abm vet\abmvet..c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AbmVet.h"
+	"dataWarehouse.h"
+	"utn.h"
+
+1589359434 c:\users\guido\desktop\proyecto empleados\abm vet\abmvet.h
+
+1589342251 c:\users\guido\desktop\proyecto empleados\abm vet\datawarehouse.h
+
+1589340932 c:\users\guido\desktop\proyecto empleados\abm vet\utn.h
+
+1589359690 source:c:\users\guido\desktop\proyecto empleados\abm vet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"AbmVet.h"
+	"utn.h"
+
+1589355981 source:c:\users\guido\desktop\proyecto empleados\abm vet\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+

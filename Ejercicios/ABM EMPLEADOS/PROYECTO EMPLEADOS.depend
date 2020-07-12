@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1589216470 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\comida.c
+	"comida.h"
+
+1589216348 c:\users\guido\desktop\proyecto empleados\proyecto empleados\comida.h
+
+1589216501 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\empleado.c
+	"empleado.h"
+	"sectores.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"dataWarehouse.h"
+
+1589216487 c:\users\guido\desktop\proyecto empleados\proyecto empleados\empleado.h
+	"sectores.h"
+
+1589216348 c:\users\guido\desktop\proyecto empleados\proyecto empleados\sectores.h
+
+1589216349 c:\users\guido\desktop\proyecto empleados\proyecto empleados\datawarehouse.h
+
+1589216475 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\almuerzo.c
+	"almuerzo.h"
+	"ctype.h"
+	<stdio.h>
+
+1589216514 c:\users\guido\desktop\proyecto empleados\proyecto empleados\almuerzo.h
+	"empleado.h"
+	"sectores.h"
+	"comida.h"
+
+1589217133 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\informes.c
+	"informes.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1589217087 c:\users\guido\desktop\proyecto empleados\proyecto empleados\informes.h
+	"empleado.h"
+
+1589217146 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"informes.h"
+	"sectores.h"
+	"almuerzo.h"
+	"comida.h"
+	"UTN.h"
+
+1589216527 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\sectores.c
+	"sectores.h"
+
+1589216692 source:c:\users\guido\desktop\proyecto empleados\proyecto empleados\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589216674 c:\users\guido\desktop\proyecto empleados\proyecto empleados\utn.h
+
+1594587290 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\comida.c
+	"comida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1589216348 c:\users\guido\desktop\proyecto abms\proyecto empleados\comida.h
+
+1589216501 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\empleado.c
+	"empleado.h"
+	"sectores.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"dataWarehouse.h"
+
+1589216487 c:\users\guido\desktop\proyecto abms\proyecto empleados\empleado.h
+	"sectores.h"
+
+1589216348 c:\users\guido\desktop\proyecto abms\proyecto empleados\sectores.h
+
+1589216349 c:\users\guido\desktop\proyecto abms\proyecto empleados\datawarehouse.h
+
+1589217133 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\informes.c
+	"informes.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1589217087 c:\users\guido\desktop\proyecto abms\proyecto empleados\informes.h
+	"empleado.h"
+
+1589216674 c:\users\guido\desktop\proyecto abms\proyecto empleados\utn.h
+
+1589217213 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"informes.h"
+	"sectores.h"
+	"almuerzo.h"
+	"comida.h"
+	"UTN.h"
+
+1589216514 c:\users\guido\desktop\proyecto abms\proyecto empleados\almuerzo.h
+	"empleado.h"
+	"sectores.h"
+	"comida.h"
+
+1589216527 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\sectores.c
+	"sectores.h"
+
+1589216692 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1594587319 source:c:\users\guido\desktop\proyecto abms\proyecto empleados\almuerzo.c
+	"almuerzo.h"
+	"ctype.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

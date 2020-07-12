@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1589924854 source:c:\users\guido\desktop\claspplab1\primerparcial\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589920213 c:\users\guido\desktop\claspplab1\primerparcial\utn.h
+
+1589917584 source:c:\users\guido\desktop\claspplab1\primerparcial\lavadero.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589918633 c:\users\guido\desktop\claspplab1\primerparcial\lavadero.h
+
+1589935724 source:c:\users\guido\desktop\claspplab1\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589935837 source:c:\users\guido\desktop\claspplab1\primerparcial\eauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589940886 c:\users\guido\desktop\claspplab1\primerparcial\etrabajo.h
+
+1589920510 c:\users\guido\desktop\claspplab1\primerparcial\eauto.h
+
+1589941126 source:c:\users\guido\desktop\claspplab1\primerparcial\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589986233 source:c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\eauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589920213 c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\utn.h
+
+1589976048 c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\lavadero.h
+
+1589982651 c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\etrabajo.h
+
+1589986213 c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\eauto.h
+
+1589982651 source:c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589924854 source:c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589979473 source:c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589986204 source:c:\users\guido\desktop\clasg.pplab1.p2.1a\primerparcial\lavadero.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589986233 source:c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\eauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589920213 c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\utn.h
+
+1589976048 c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\lavadero.h
+
+1589982651 c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\etrabajo.h
+
+1589986213 c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\eauto.h
+
+1589982651 source:c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\etrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589986204 source:c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\lavadero.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589979473 source:c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"lavadero.h"
+	"eTrabajo.h"
+	"eAuto.h"
+
+1589924854 source:c:\users\guido\desktop\parciales-prog1-lab1\p1 parte1\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+

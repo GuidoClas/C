@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1589340211 source:c:\users\guido\desktop\proyecto empleados\abmorquesta\abmfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ABMFUNC.h"
+	"dataWarehouse.h"
+
+1589340309 c:\users\guido\desktop\proyecto empleados\abmorquesta\abmfunc.h
+
+1589339473 c:\users\guido\desktop\proyecto empleados\abmorquesta\datawarehouse.h
+
+1589340677 source:c:\users\guido\desktop\proyecto empleados\abmorquesta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ABMFUNC.h"
+
+1589339984 source:c:\users\guido\desktop\proyecto empleados\abmorquesta\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589339610 c:\users\guido\desktop\proyecto empleados\abmorquesta\utn.h
+

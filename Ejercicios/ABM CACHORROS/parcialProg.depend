@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1593541040 source:c:\users\guido\desktop\parciallabperros\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593540950 c:\users\guido\desktop\parciallabperros\linkedlist.h
+
+1593542274 source:c:\users\guido\desktop\parciallabperros\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"dog.h"
+
+1593531148 c:\users\guido\desktop\parciallabperros\dog.h
+
+1593543848 source:c:\users\guido\desktop\parciallabperros\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"dog.h"
+	"parser.h"
+	"utn.h"
+
+1593544882 c:\users\guido\desktop\parciallabperros\controller.h
+
+1593540950 c:\users\guido\desktop\parciallabperros\parser.h
+
+1589920213 c:\users\guido\desktop\parciallabperros\utn.h
+
+1589924854 source:c:\users\guido\desktop\parciallabperros\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1593542293 source:c:\users\guido\desktop\parciallabperros\dog.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"dog.h"
+	"utn.h"
+
+1593541179 source:c:\users\guido\desktop\parciallabperros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"dog.h"
+	"utn.h"
+
